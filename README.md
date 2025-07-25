@@ -35,3 +35,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Context for M A Zuha
+
+## Profile
+- Name: M A Zuha
+- Location: Dhaka, Bangladesh
+- Languages: English (Primary), Bengali (Secondary)
+- Timezone: Asia/Dhaka
+- Company: ZuhaWorld Social Impact
+- Job Title: CEO
+- Pronouns: he/him/his
+- Interests: photography, traveling, reading, writing, learning, programming, coding
+- About Me: Hi, this is (এম এ জোহা) M A Zuha, I’m a writer and photographer from Dhaka, Bangladesh. Professionally I'm a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh. My favorite quote is: “One can't help everyone, but everyone can help someone.”
+
+## Online Presence
+\[Gravatar Profile\]: [gravatar.com/zuhaworld](https://gravatar.com/zuhaworld)
+\[WordPress\]: [zuhaworld.com](https://zuhaworld.com)
+\[Flickr\]: [flickr.com/people/zuhaworld](https://www.flickr.com/people/zuhaworld)
+\[Tumblr\]: [zuhaworld.tumblr.com](http://zuhaworld.tumblr.com)
+\[Mastodon\]: [mastodon.social/@zuhaworld](https://mastodon.social/@zuhaworld)
+\[GitHub\]: [github.com/armandsl](https://github.com/armandsl)
+\[YouTube Channel\]: [youtube.com/@zuhaworld](https://www.youtube.com/@zuhaworld)
